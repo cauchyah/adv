@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_line"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.hei.LineActivity">
+    <com.example.administrator.hei.LineTextView
+        android:text="坏呼呼呼会和好你哦好和我哦吼吼恩惠饿哦后和耦合吼吼而花没进决赛囧囧哦吉尔奇偶炯炯人费后和耦合分"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
