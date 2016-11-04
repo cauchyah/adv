@@ -3,6 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="checkedColor">#b3b3b3</color>
-    <color name="uncheckColor">#dddddd</color>
+    <color name="checkedColor">#303F9F</color>
+    <color name="uncheckColor">#fff</color>
 </resources>
