@@ -133,7 +133,7 @@ public class ViewPagerFragment extends Fragment {
 
             }
         });
-        //设置第一张显示的图片
+        //设置第一张要显示的图片
         viewPager.setCurrentItem(1);
 
     }
